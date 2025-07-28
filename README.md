@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3b6yehjjwntq28ujbmcngjdq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3b6yehjjwntq28ujbmcngjdq%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shir-siman-tov-36754116a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shir-siman-tov-36754116a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,9 +17,12 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Shir-Siman-Tov&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shir-Siman-Tov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=false&order=2" height="150" alt="languages graph" />
+  <br><br>
   <img src="https://streak-stats.demolab.com?user=Shir-Siman-Tov&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
+
 
 
 ###
